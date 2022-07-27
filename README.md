@@ -1,20 +1,4 @@
 
-![](https://raw.githubusercontent.com/DrLafa/osmo-nitb-scripts/master/doc/img/help.png)
-
-### RougeBTS
-
- This project is created for easy deployment of Osmocom GSM stack and convenient interaction with users
-
-  - E(GPRS) support
-  - Asterisk support
-  - monitoring online subscribers
-  - automatic interaction with new users, like sms, ussd or call
-  - manual interaction with individual users
-  - USSD-broadcast
-  - SMS-broadcast
-  - SMS-spam ;)
-
-
 ![](https://raw.githubusercontent.com/jhonnybonny/osmo-nitb-scripts-calypsobts/main/doc/img/IMG.jpg)
 
 All software was tested on [x2 Motorola c123 + DragonOS](https://cemaxecuter.com/)
