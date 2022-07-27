@@ -29,9 +29,9 @@ sudo python3 main.py
 ```
 
 
-### Configure
-## All osmocom config files stored in `config/` folder and updating everytime when you start `main.py`. You need change it by youself ⚠️ .
-### config.json
+## Configure
+### All osmocom config files stored in `config/` folder and updating everytime when you start `main.py`. You need change it by youself ⚠️ .
+#### config.json
 For easy setup of user-interactivity you can use config.json
 - config.json example
 ```
