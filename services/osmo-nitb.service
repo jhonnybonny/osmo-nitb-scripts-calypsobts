@@ -1,0 +1,13 @@
+[Unit]
+Description=OpenBSC Network In the Box (NITB)
+
+[Service]
+Type=simple
+Restart=always
+ExecStart=osmo-nitb -c /usr/src/CalypsoBTS/openbsc.cfg -l /usr/src/CalypsoBTS/hlr.sqlite3 -P -C --debug=DRLL:DCC:DMM:DRR:DRSL:DNM
+RestartSec=2
+
+[Install]
+WantedBy=multi-user.target
+
+
