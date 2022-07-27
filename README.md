@@ -17,7 +17,7 @@
 
 ![](https://raw.githubusercontent.com/jhonnybonny/osmo-nitb-scripts-calypsobts/main/doc/img/IMG.jpg)
 
-All software was tested on [LimeSDR-Mini + Orange Pi Zero](https://codeby.net/threads/miniatjurnaja-sotovaja-stancija-na-baze-limesdr-mini-i-orange-pi-zero.66747/) with Armbian Bionic. Also with Debian 10
+All software was tested on [x2 Motorola c123 + DragonOS](https://cemaxecuter.com/)
 
 ### Installation
 ```
