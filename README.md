@@ -10,7 +10,7 @@ Cloning
 ```
 git clone https://github.com/jhonnybonny/osmo-nitb-scripts-calypsobts.git
 ```
-Instal services (P.S. Clock setting (ARFCN) inside services/osmo-trx-lms.service)
+Install services (P.S. Clock setting (ARFCN) inside services/osmo-trx-lms.service)
 ```
 sudo ./install_services.sh
 ```
