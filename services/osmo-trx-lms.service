@@ -4,7 +4,7 @@ Description=CLOCK
 [Service]
 Type=simple
 Restart=always
-ExecStart=/usr/src/CalypsoBTS/transceiver -a 606 -2 -r 99
+ExecStart=/usr/src/CalypsoBTS/transceiver -a 1 -2 -r 99
 RestartSec=2
 
 [Install]
