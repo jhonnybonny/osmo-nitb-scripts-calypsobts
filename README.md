@@ -14,7 +14,7 @@ Install services (P.S. Clock setting (ARFCN) inside services/osmo-trx-lms.servic
 ```
 sudo ./install_services.sh
 ```
-Auto start
+Auto start ✅
 ```
 sudo ./auto.sh
 ```
