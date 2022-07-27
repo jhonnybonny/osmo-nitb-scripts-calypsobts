@@ -66,5 +66,5 @@ Send sms to new users. When user connect to network, script choose 1 random mess
 #### ussd
 Send ussd to new users. Script choose 1 random message from ```message``` section adn sending it to user
 
-#### call
+#### call non tested ⚠️
 Make a call to new user. This function works only with Asterisk support. voice-file is 16-bit 8 kHz wav file. If ```caller_extension``` is ```false```, then the user sees that the phone is not defined.
