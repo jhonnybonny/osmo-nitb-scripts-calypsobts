@@ -5,13 +5,14 @@
 All software was tested on [x2 Motorola c123 + DragonOS](https://cemaxecuter.com/)
 
 ### Installation
-```
-sudo ./install_services.sh
-```
 
 Cloning
 ```
 git clone https://github.com/jhonnybonny/osmo-nitb-scripts-calypsobts.git
+```
+Instal services (P.S. Clock setting (ARFCN) inside services/osmo-trx-lms.service)
+```
+sudo ./install_services.sh
 ```
 Auto start
 ```
@@ -28,22 +29,22 @@ For easy setup of user-interactivity you can use config.json
 {
    "scripts":{
       "sms":{
-         "enabled": false,
-         "sender_extension": "John Connor",
+         "enabled": true,
+         "sender_extension": "CrTh",
          "message":[
-            "If you are reading this, then you are resistance"
+            "TEST SMS"
          ]
       },
       "ussd":{
-         "enabled": false,
+         "enabled": true,
          "ussd_type": 1,
          "message":[
-            "Welcome to our l33t hax0r network.",
-            "If you are reading this, then you are true L33T 1337 H4xXx0r"
+            "CrTh.",
+            "TEST ALERT TEST ALERT TEST ALERT"
          ]
       },
       "call":{
-         "enabled": true,
+         "enabled": false,
          "caller_extension": 666,
          "voice-file": "tt-monkeys"
       }
