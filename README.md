@@ -20,17 +20,17 @@
 All software was tested on [LimeSDR-Mini + Orange Pi Zero](https://codeby.net/threads/miniatjurnaja-sotovaja-stancija-na-baze-limesdr-mini-i-orange-pi-zero.66747/) with Armbian Bionic. Also with Debian 10
 
 ### Installation
-
-```
-It is necessary to install Osmocom stack from apt, because it configure Systemd services. If you compile osmocom from sources, you need to install Systemd services by yourself with script `install_services.sh`
 ```
 sudo ./install_services.sh
 ```
 
-```
 Cloning
 ```
 git clone https://github.com/jhonnybonny/osmo-nitb-scripts-calypsobts.git
+```
+Auto start
+```
+sudo ./auto.sh
 ```
 
 ### Configure
