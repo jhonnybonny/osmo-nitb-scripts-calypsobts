@@ -1,3 +1,7 @@
+## [Osmo-nitb-scripts](https://github.com/godfuzz3r/osmo-nitb-scripts) for [CalypsoBTS](https://osmocom.org/projects/baseband/wiki/CalypsoBTS)
+### Motorola phone / OsmocomBB / TI Calypso
+
+
 ![](https://raw.githubusercontent.com/jhonnybonny/osmo-nitb-scripts-calypsobts/main/doc/img/111screen.jpg)
 
 
