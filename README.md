@@ -1,5 +1,5 @@
 ## [Osmo-nitb-scripts](https://github.com/godfuzz3r/osmo-nitb-scripts) for [CalypsoBTS](https://osmocom.org/projects/baseband/wiki/CalypsoBTS)
-### Motorola phone / OsmocomBB / TI Calypso
+### [Motorola phones](https://osmocom.org/projects/baseband/wiki/Phones) / OsmocomBB / TI Calypso
 
 
 
