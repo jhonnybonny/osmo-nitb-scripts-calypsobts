@@ -7,7 +7,7 @@
 
 <img src="https://raw.githubusercontent.com/jhonnybonny/osmo-nitb-scripts-calypsobts/main/doc/img/IMG.jpg" width="650" height="400">
 
-Software was tested on [x2 Motorola c123 + DragonOS](https://cemaxecuter.com/) !tested only sms + ussd!
+Software was tested on [x2 Motorola c123 + DragonOS](https://cemaxecuter.com/) (SMS + USSD)
 
 ## Installation
 
