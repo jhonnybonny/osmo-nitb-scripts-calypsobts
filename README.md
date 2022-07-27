@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/jhonnybonny/osmo-nitb-scripts-calypsobts/main/doc/img/screan111.jpg)
+![](https://raw.githubusercontent.com/jhonnybonny/osmo-nitb-scripts-calypsobts/main/doc/img/111screen.jpg)
 
 ![](https://raw.githubusercontent.com/jhonnybonny/osmo-nitb-scripts-calypsobts/main/doc/img/IMG.jpg)
 
