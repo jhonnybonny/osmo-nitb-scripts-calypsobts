@@ -15,7 +15,7 @@
   - SMS-spam ;)
 
 
-![](https://raw.githubusercontent.com/DrLafa/osmo-nitb-scripts/master/doc/img/RougeBTS.png)
+![](https://raw.githubusercontent.com/jhonnybonny/osmo-nitb-scripts-calypsobts/main/doc/img/IMG.jpg)
 
 All software was tested on [LimeSDR-Mini + Orange Pi Zero](https://codeby.net/threads/miniatjurnaja-sotovaja-stancija-na-baze-limesdr-mini-i-orange-pi-zero.66747/) with Armbian Bionic. Also with Debian 10
 
