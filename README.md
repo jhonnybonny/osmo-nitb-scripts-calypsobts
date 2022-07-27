@@ -10,7 +10,7 @@ Cloning
 ```
 git clone https://github.com/jhonnybonny/osmo-nitb-scripts-calypsobts.git
 ```
-Install services (P.S. Clock setting (ARFCN) inside services/osmo-trx-lms.service)
+Install services (P.S. Clock setting (ARFCN) inside services/osmo-trx-lms.service 🤪)
 ```
 sudo ./install_services.sh
 ```
@@ -18,6 +18,11 @@ Auto start
 ```
 sudo ./auto.sh
 ```
+Start ⚠️ Also u need run TRX ⚠️
+```
+sudo python3 main.py
+```
+
 
 ### Configure
 All osmocom config files stored in `config/` folder and updating everytime when you start `main.py`. You can change it by youself.
